@@ -1,4 +1,4 @@
-# CRUD App with Django
+# CRUD Todo App with Django
 
 A simple CRUD (Create, Read, Update, Delete) application built with Django for managing a to-do list. This project uses Django and additional libraries to provide a clean, styled UI with crispy forms.
 
@@ -21,8 +21,8 @@ A simple CRUD (Create, Read, Update, Delete) application built with Django for m
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/lsman333/crud_app.git
-   cd crud_app
+   git clone https://github.com/lsman333/todo_app.git
+   cd todo_app
 
 2. **Create the virtual environment**
     python3 -m venv venv
@@ -50,7 +50,7 @@ A simple CRUD (Create, Read, Update, Delete) application built with Django for m
 Usage
 -----
 To add a new to-do item, click on "Add" and fill out the form.
-To update an item, click "Edit" next to it, make changes, and save.
+To update an item, click "Update" next to it, make changes, and save.
 To delete an item, click "Delete."
 
 Dependencies
